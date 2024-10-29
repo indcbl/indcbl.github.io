@@ -4,7 +4,6 @@ title:
 carousels:
   - images: 
     - image: /uploads/slider/001.jpg
-    - image: /uploads/slider/002.jpg
     - image: /uploads/slider/003.jpg
     - image: /uploads/slider/004.jpg
     - image: /uploads/slider/005.jpg
