@@ -46,5 +46,5 @@ carousels:
     - image: /uploads/slider/043.jpg
 ---
 
-{% include carousel.html height="80" unit="%" duration="1" %}
+{% include carousel.html height="100" unit="%" duration="2" %}
 
