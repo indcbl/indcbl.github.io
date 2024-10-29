@@ -44,6 +44,14 @@ carousels:
     - image: /uploads/slider/041.jpg
     - image: /uploads/slider/042.jpg
     - image: /uploads/slider/043.jpg
+    - image: /uploads/slider/044.jpg
+    - image: /uploads/slider/045.jpg
+    - image: /uploads/slider/046.jpg
+    - image: /uploads/slider/047.jpg
+    - image: /uploads/slider/048.jpg
+    - image: /uploads/slider/049.jpg
+    - image: /uploads/slider/050.jpg
+    - image: /uploads/slider/051.jpg
 ---
 
 {% include carousel.html height="100" unit="%" duration="2" %}
