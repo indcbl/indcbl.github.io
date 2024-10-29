@@ -53,5 +53,5 @@ carousels:
     - image: /uploads/slider/050.jpg
     - image: /uploads/slider/051.jpg
 ---
-{% include carousel.html height="100" unit="%" duration="1" %}
+{% include carousel.html height="80" unit="%" duration="1" %}
 
