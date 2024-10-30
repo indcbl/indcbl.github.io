@@ -55,4 +55,4 @@ carousels:
 ---
 {% include carousel.html height="80" unit="%" duration="1" %}
 
-[/uploads/titolo_sito.jpg]
+(/uploads/titolo_sito.jpg)
