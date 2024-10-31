@@ -66,7 +66,10 @@ carousels:
     - image: /uploads/slider/063.jpg
     - image: /uploads/slider/064.jpg
     - image: /uploads/slider/065.jpg
-    - image: /uploads/slider/066.jpg
+    - image: /uploads/slider/067.jpg
+    - image: /uploads/slider/068.jpg
+    - image: /uploads/slider/069.jpg
+    - image: /uploads/slider/070.jpg
 ---
 
 {% include carousel+.html %}
