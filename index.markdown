@@ -52,6 +52,21 @@ carousels:
     - image: /uploads/slider/049.jpg
     - image: /uploads/slider/050.jpg
     - image: /uploads/slider/051.jpg
+    - image: /uploads/slider/052.jpg
+    - image: /uploads/slider/053.jpg
+    - image: /uploads/slider/054.jpg
+    - image: /uploads/slider/055.jpg
+    - image: /uploads/slider/056.jpg
+    - image: /uploads/slider/057.jpg
+    - image: /uploads/slider/058.jpg
+    - image: /uploads/slider/059.jpg
+    - image: /uploads/slider/060.jpg
+    - image: /uploads/slider/061.jpg
+    - image: /uploads/slider/062.jpg
+    - image: /uploads/slider/063.jpg
+    - image: /uploads/slider/064.jpg
+    - image: /uploads/slider/065.jpg
+    - image: /uploads/slider/066.jpg
 ---
 
 {% include carousel+.html %}
