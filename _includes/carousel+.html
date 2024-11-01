@@ -47,11 +47,10 @@
 <div class="carousel_holder" id="carousel_holder">
 {% for item in page.carousels[number].images %}
 <div class="carousel__slide>
+<input class="carousel__activator" type="radio" name="carousel{{ number }}" id="{{ number }}{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
 <img src=url('{{ item.image }}') class="carousel">
 </div>
 {% endfor %}
-    
-  
   </div>
 
 
