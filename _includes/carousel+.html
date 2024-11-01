@@ -45,11 +45,11 @@
 <body>
 {% assign number = include.number | minus: 1 %}
 <div class="carousel_holder" id="carousel_holder">
-{% for item in page.carousels[number].images %}
 <div class="carousel__slide>
-<img src="{{ item.image }}" class="carousel">
+	{% for item in page.carousels[number].images %}
+		<img src="{{ item.image }}" class="carousel">
+	{% endfor %}
 </div>
-{% endfor %}
 
 
   <script>
