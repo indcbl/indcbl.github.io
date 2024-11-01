@@ -47,17 +47,9 @@
 <div class="carousel_holder" id="carousel_holder">
 {% for item in page.carousels[number].images %}
 <div class="carousel__slide>
-<img src="url('{{ item.image }}')" class="carousel">
+<img src=url('{{ item.image }}') class="carousel">
 </div>
 {% endfor %}
-  </div>
-		<div class="carousel__track">
-          <ul>
-            {% for item in page.carousels[number].images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
-            {% endfor %}
-          </ul>
-        </div>
 
 
   <script>
