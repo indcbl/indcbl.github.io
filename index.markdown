@@ -72,5 +72,5 @@ carousels:
     - image: /uploads/slider/070.jpg
 ---
 
-{% include carousel+.html %}
+{% include carousel.html %}
 # indicibile
