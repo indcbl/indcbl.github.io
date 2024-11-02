@@ -37,7 +37,6 @@
 		width: 30px;
 		}
 	</style>
-
 </head>
 
 
@@ -45,9 +44,10 @@
 {% assign number = include.number | minus: 1 %}
 <div class="carousel_holder" id="carousel_holder">
 	{% for image in site.static_file.images %}
-		{% if image.path contains 'images/slider' %}
+		<!-- {% if image.path contains 'images/slider' %}
         	<img src="{{ site.baseurl }}{{ image.path }}" class="carousel" alt="image">
-		{% endif %}
+		{% endif %} -->
+	<img src="{{ site.baseurl }}{{ image.path }}" class="carousel" alt="image">
 	{% endfor %}
 </div>
 
