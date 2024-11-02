@@ -1,5 +1,4 @@
 <head>
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <style>
@@ -45,8 +44,8 @@
 <body>
 {% assign number = include.number | minus: 1 %}
 <div class="carousel_holder" id="carousel_holder">
-	{% for item in site.static_file[number].images %}
-	<img src="{{ site.baseurl }}{{ item.path }}" class="carousel" alt="image">
+	{% for image in site.static_file[number].images %}
+	<img src="{{ site.baseurl }}{{ image.path }}" class="carousel" alt="image">
 	{% endfor %}
 </div>
 
