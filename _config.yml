@@ -27,11 +27,8 @@ plugins:
 
 defaults:
   - scope:
-      image:
-      path: "assets/slider"
-    values:
-      image: true
-
+      path: "assets/img"
+          
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
