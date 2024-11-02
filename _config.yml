@@ -24,10 +24,12 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-defaults:
+  
+    defaults:
   - scope:
       path: "assets/img"
+    values:
+      image: true
           
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
