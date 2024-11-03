@@ -48,7 +48,6 @@
         	<img src="{{ site.baseurl }}{{ image.path }}[number]" class="carousel" alt="image">
 	{% endfor %}
 </div>
-<img src="{{ site.baseurl }}{{ image.path }}" class="carousel" alt="image">
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
   {{ myimage.path }}
