@@ -28,7 +28,7 @@ plugins:
 defaults:
   - 
    scope:
-    path: "assets/slider"
+    path: "assets/slider/config"
    values:
     image: true
           
