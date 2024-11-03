@@ -42,8 +42,6 @@
 
 <body>
 {% assign number = include.number | minus: 1 %}
-
-{% assign number = include.number | minus: 1 %}
 <div class="carousel_holder" id="carousel_holder">
 	{% for item in page.carousels[number].images %}
 		<img src="{{ item.image }}" class="carousel">
