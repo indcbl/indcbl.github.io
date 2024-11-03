@@ -45,14 +45,9 @@
 <div class="carousel_holder" id="carousel_holder">
 	{% assign image_files = site.static_files| where: "image", true %}
 	{% for image in image_files %}
-        	<img src="{{ image.path }}[number]" class="carousel" alt="image">
+        	<img src="{{ image.path }}" class="carousel" alt="image">
 	{% endfor %}
 </div>
-{% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-  {{ myimage.path }}
-{% endfor %}
-
 	
   <script>
     let a = [];
