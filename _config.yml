@@ -26,10 +26,11 @@ plugins:
   - jekyll-feed
   
 defaults:
-  - scope:
-      path: "assets/slider"
-    values:
-      image: true
+  - 
+   scope:
+    path: "assets/slider"
+   values:
+    image: true
           
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
