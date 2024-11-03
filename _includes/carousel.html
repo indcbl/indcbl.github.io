@@ -48,13 +48,14 @@
         	<img src="{{ site.url }}{{ image.path }}[number]" class="carousel" alt="image">
 		{% endif %}
 	{% endfor %}
-<img src="{{ site.url }}{{ image.path }}" class="carousel" alt="image">
+</div>
+<img src="{{ site.baseurl }}{{ image.path }}" class="carousel" alt="image">
 	{% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
   {{ myimage.path }}
 {% endfor %}
-</div>
 
+	
   <script>
     let a = [];
     for (let i = 0; i < 70; ++i) a[i] = i;
