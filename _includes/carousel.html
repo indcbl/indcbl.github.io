@@ -45,7 +45,7 @@
 <div class="carousel_holder" id="carousel_holder">
 	{% for image in site.static_file.images %}
 		{% if image.path contains 'images/slider' %}
-        	<img src="{{ site.baseurl }}{{ image.path }}[number]" class="carousel" alt="image">
+        	<img src="{{ site.url }}{{ image.path }}[number]" class="carousel" alt="image">
 		{% endif %}
 	{% endfor %}
 <img src="{{ site.url }}{{ image.path }}" class="carousel" alt="image">
