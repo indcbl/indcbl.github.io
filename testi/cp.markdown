@@ -1,5 +1,6 @@
 ---
 title: CP
+layout: post
 ---
 
 ## sento subito che il luogo scelto, e anche il semplice allestimento dei materassini in cerchio, sono perfetti. anche il clima, all'ora del tramonto, è proprio quello giusto. e anche il gruppo, mi sembra composto così  che meglio non si sarebbe potuto. 

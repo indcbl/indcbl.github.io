@@ -1,5 +1,6 @@
 ---
 title: MV
+layout: post
 ---
 ## Ci troviamo in cerchio, sotto un albero, ci versiamo dell'acqua profumatissima sulla testa. 
 Ci spostiamo  pochi metri più in là, siamo di nuovo in cerchio. Il fatto di aver curato quella zona di campo durante il  pomeriggio mi rasserena e mi fa sentire connesso al presente prima di questo salto nel vuoto. Dopo la consegna dei bicchierini da parte di D. mi sdraio e inizio a guardare il cielo. I primi venti/trenta minuti non penso a niente e guardo le stelle sentendo i suoni che mi circondano. 

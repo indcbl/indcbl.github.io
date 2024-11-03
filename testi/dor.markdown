@@ -1,5 +1,6 @@
 ---
 title: DOR
+layout: post
 ---
 
 Il gruppo si è appena riunito nella casa caufausica, mancano C., A., M.. Hanno  lasciato l’automobile morente allo sfasciacarrozze in Abruzzo, arriveranno a notte inoltrata con  un’altra auto a noleggio. 
