@@ -228,7 +228,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-
+  overflow: visible;
+  
   h2 {
     @include relative-font-size(2);
 

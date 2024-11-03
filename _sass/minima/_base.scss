@@ -14,9 +14,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body, html {height:100%;}
-div.wrap {height:100%; overflow:hidden;}
-body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+div.wrap {height:100%; overflow:visible;}
+body {	
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-posts;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -43,7 +43,7 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit * 0.5;
 }
 h1 { transform: scale(-1, 1); color:white; }
-
+h2 { transform: scale(-1, 1); color:white; }
 
 /**
  * `main` element
