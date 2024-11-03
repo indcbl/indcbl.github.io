@@ -4,10 +4,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
- <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Anek+Gurmukhi:wdth,wght@87.5,100..800&display=swap" rel="stylesheet">
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-</head>
+  <script>
+    var sites = [
+        'http://indicibile.xyz/testi/dor23',
+        'http://indicibile.xyz/testi/cp23',
+        'http://indicibile.xyz/testi/ag23',
+        'http://indicibile.xyz/testi/mv23',
+        'http://indicibile.xyz/testi/mc23',
+        'http://indicibile.xyz/testi/fb23',
+        'http://indicibile.xyz/testi/mdl23',
+        'http://indicibile.xyz/testi/jn23',	
+            ];
+
+    function randomSite() {
+        var i = parseInt(Math.random() * sites.length);
+        location.href = sites[i];
+    }
+</script>
+
+
