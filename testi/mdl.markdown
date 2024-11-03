@@ -15,7 +15,7 @@ Una volta che il gruppo era assicurato, ho potuto concentrarmi sul mio viaggio e
 La signora DMT mi ha permesso di salire un po' più in alto su questo percorso, grazie. 
 Visioni demoniache all'inizio della cerimonia, è stata una prima volta, anche questa, perché? Forse la  risposta verrà più avanti...
 "No, grazie, non voglio questo qui, guarda intorno a te, ascolta questa gioia, luce luce luce." Queste  visioni sono state presto sostituite da occhi dai colori RGB e da un'energia squisita che mi ha attraversato tutto il corpo in un istante. L'amore arriva naturalmente. 
-Un abbraccio altrettanto squisito per qualche secondo tra Roberto, Francesca e me. 
+Un abbraccio altrettanto squisito per qualche secondo tra R., Francesca e me. 
 
 Un'esperienza davvero particolare realizzare una cerimonia con persone parlanti un'altra lingua. Prima dell'esperienza, il fatto di non capire tutte le conversazioni era rilassante. 
 Alla fine ho capito che nella vita il linguaggio è comunque importante. 
