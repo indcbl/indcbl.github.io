@@ -42,12 +42,19 @@
 
 <body>
 {% assign number = include.number | minus: 1 %}
-	{% assign number = include.number | minus: 1 %}
+
+{% assign number = include.number | minus: 1 %}
+<div class="carousel_holder" id="carousel_holder">
+	{% for item in page.carousels[number].images %}
+		<img src="{{ item.image }}" class="carousel">
+	{% endfor %}
+</div>
+
 	
 <div class="carousel_holder" id="carousel_holder">
 	{% assign image_files = site.static_files| where: "image", true %}
-	{% for image in image_files[number] %}
-        	<img src="{{ image.path }}" class="carousel" alt="image">
+	{% for item in image_files[number]%}
+        	<img src="{{ item.image.path }}" class="carousel" alt="image">
 	{% endfor %}
 </div>
 	
