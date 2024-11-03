@@ -29,9 +29,8 @@ Gli altri arrivano, non riescono, io provo ancora, bene, ma non ottimo, ancora t
 Verso la casa, verso il banchetto, 
 in un lento ritorno. Terre arride, paure, il buio, racconti,
 dentro e poi fori, gli altri, il racconto degli altri, 
-
-## Il Grillo un po’ Volpe un po’ Trickster, il Viandante, le due Colombe, il Gatto-Orso, la Portoghese, I due  Maghi, la Bimba quasi di Ceramica, Lui che Tutto sa e si ripara, Il Convitato di Pietra: 
-La sai salire una scala? 
+Il Grillo un po’ Volpe un po’ Trickster, il Viandante, le due Colombe, il Gatto-Orso, la Portoghese, I due  Maghi, la Bimba quasi di Ceramica, Lui che Tutto sa e si ripara, Il Convitato di Pietra: 
+## La sai salire una scala? 
 E poi il viandante ci mostra l’uovo rotto, come gli chiedo, e l’uovo non si sa perché era la. Il Viandante mi  disse anche che c’era troppo isterismo di risa. 
 E poi stelle, che chiarissime mi appaiono, precise, le leggo, le vedo, e la Luna, che di tutto il ciclo ci siamo  abbeverati, ah, ora ricordo ancora: la Colomba nel momento di passaggio ci porta dei piccoli esseri  mutevoli-mutanti che mammelle e capezzoli che sgorgano il latte nel primo piacere che ci abbonda ci  esonda nel cielo che trema che ancora non parola. 
 Dicevo la Luna, la Luna e le stelle, quelle fisse e quelle retrogradi, che siamo sul tetto, io e la Portoghese,  e vediamo l’alba, il celo farsi da scuro a celeste, le stelle sparire, vogliamo il mare, ma la Colombia  costudisce le chiavi e quindi ecco i resti di una Stella che lenta si spenge, che prima insieme facemmo  brillare. 
