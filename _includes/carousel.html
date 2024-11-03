@@ -43,7 +43,7 @@
 <body>
 {% assign number = include.number | minus: 1 %}
 <div class="carousel_holder" id="carousel_holder">
-	{% for image in site.static_file.images %}
+	{% for image in site.static_file.images | where: "image", true %}
 		{% if image.path contains 'images/slider' %}
         	<img src="{{ site.url }}{{ image.path }}[number]" class="carousel" alt="image">
 		{% endif %}
