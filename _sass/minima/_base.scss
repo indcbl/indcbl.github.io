@@ -42,9 +42,9 @@ ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit * 0.5;
 }
-h1 { transform: scale(-1, 1); color:white; }
-h2 { transform: scale(-1, 1); color:white; }
-
+h1 { transform: scale(-1, 1); color: #aaa; }
+h2 { color:#aaa; justify: right; }
+a { color:#aaa;}
 /**
  * `main` element
  */
