@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body, html {height:100%;}
 div.wrap {height:100%; overflow:visible;}
 body {	
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-posts;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -28,7 +28,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  overflow: hidden;
+  overflow: visible;
 }
 
 
@@ -42,9 +42,9 @@ ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit * 0.5;
 }
-h1 { transform: scale(-1, 1); color:white; }
-h2 { transform: scale(-1, 1); color:white; }
-
+h1 { transform: scale(-1, 1); color: #aaa; }
+h2 { color:#aaa; justify: right; font: $base-font-posts;}
+a { color:#aaa; font: $base-font-posts;}
 /**
  * `main` element
  */
@@ -109,8 +109,8 @@ a {
   color: $brand-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-color, 15%);
+  /* &:visited { */
+    /* color: darken($brand-color, 15%); */
   }
 
   &:hover {
