@@ -15,7 +15,7 @@ dl, dd, ol, ul, figure {
  */
 body, html {height:100%;}
 div.wrap {height:100%; overflow:visible;}
-h1 { font: $base-font-family; }
+h1 { font: $base-font-title; }
 body {	
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-posts;
   color: $text-color;
