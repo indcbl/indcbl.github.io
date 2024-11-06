@@ -1,6 +1,6 @@
 ---
 title: MDL
-layout: posts
+layout: post
 ---
 ## Ci sono state molte "prime volte" questa volta. 
 Inoltre, il fatto che ogni esperienza sia unica: 
