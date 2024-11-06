@@ -1,7 +1,6 @@
 ---
 title: MDL
 ---
-## [<§>](https://indicibile.xyz)
 ## Ci sono state molte "prime volte" questa volta. 
 Inoltre, il fatto che ogni esperienza sia unica: 
 Con un gruppo che conosco appena, in modalità cerimoniale, in un'altra lingua e cercando di rimanere  nella stessa posizione, eretti, durante la sessione. Cosa che, a dir poco, è complicata, soprattutto con i  funghi, che ci spingono a muoverci e torcerci in tutti i modi. 
