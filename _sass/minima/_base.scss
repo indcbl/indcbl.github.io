@@ -41,8 +41,14 @@ ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit * 0.5;
 }
-h1 { transform: scale(-1, 1); color: #aaa; }
-h2 { color:#aaa; justify: right; font: $base-font-posts;}
+h1 { transform: scale(-1, 1); 
+  color: #aaa; 
+  font_size:2em;
+}
+h2 { color:#aaa; 
+  justify: right; 
+  font: $base-font-posts;
+  font-size: 1.7em}
 a { color:#aaa; font: $base-font-posts;}
 /**
  * `main` element
