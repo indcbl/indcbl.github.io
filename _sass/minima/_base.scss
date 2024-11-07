@@ -45,8 +45,12 @@ ul, ol, dl, figure,
 }
 h1 { transform: scale(-1, 1); 
   color: #aaa; 
+  font-size: $dor_h1_size;
 }
-h2 { color:#aaa; justify: right; }
+h2 { color:#aaa; 
+  justify: right; 
+  font-size: $dor_h2_size;
+}
 a { color:#aaa;}
 /**
  * `main` element
