@@ -6,9 +6,3 @@ layout: default
   {{ content }}
 <body>
 	
-<div class="carousel_holder" id="carousel_holder">
-	{% assign image_files = site.static_files| where: "image", true %}
-	{% for image in image_files %}
-        	<img src="{{ image.path }}" class="carousel" alt="image">
-	{% endfor %}
-</div>
