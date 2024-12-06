@@ -2,5 +2,6 @@
 layout: home
 title:
 ---
+indicibili@protonmail.com
 {% include carousel.html %}
-[CONTATTO](indicibili@protonmail.com]
+
