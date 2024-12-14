@@ -12,3 +12,5 @@ Come nella vita quotidiana, ho "perso" molto tempo preoccupandomi di ciò che av
 ma alla fine ciò che è andato storto non è mai stata la cosa che mi ha preoccupato di più. 
 ### L'arte di vivere consiste in un sottile equilibrio tra lasciarsi andare e resistere.
 [...]
+
+indicibili@protonmail.com
